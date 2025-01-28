@@ -10,3 +10,5 @@ function trocaCor () {
 
 botaoTrocarCor.addEventListener('click', trocaCor)
 
+botaoTrocarCor.addEventListener ('keydown', trocaCor)
+
